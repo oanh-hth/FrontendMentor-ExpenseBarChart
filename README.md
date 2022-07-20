@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]https://github.com/oanh-hth/FrontendMentor-ExpenseBarChart/blob/main/src/images/Expense-chart.png
+![](https://github.com/oanh-hth/FrontendMentor-ExpenseBarChart/blob/main/src/images/Expense-chart.png)
 
 
 ### Links
