@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/FrontendMentor-ExpenseChartComponent/static/js/main.4978e79c.js",
-    "index.html": "/FrontendMentor-ExpenseChartComponent/index.html",
-    "static/media/logo.svg": "/FrontendMentor-ExpenseChartComponent/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
-    "main.4978e79c.js.map": "/FrontendMentor-ExpenseChartComponent/static/js/main.4978e79c.js.map"
+    "main.js": "/FrontendMentor-ExpenseBarChart/static/js/main.308bb091.js",
+    "index.html": "/FrontendMentor-ExpenseBarChart/index.html",
+    "static/media/logo.svg": "/FrontendMentor-ExpenseBarChart/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
+    "main.308bb091.js.map": "/FrontendMentor-ExpenseBarChart/static/js/main.308bb091.js.map"
   },
   "entrypoints": [
-    "static/js/main.4978e79c.js"
+    "static/js/main.308bb091.js"
   ]
 }
