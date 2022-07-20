@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/oanh-hth/FrontendMentor-ExpensesChartComponent
-- Live Site URL: https://oanh-hth.github.io/FrontendMentor-ExpensesChartComponent/
+- Solution URL: https://github.com/oanh-hth/FrontendMentor-ExpenseBarChart
+- Live Site URL: https://oanh-hth.github.io/FrontendMentor-ExpenseBarChart
 
 ## My process
 
