@@ -2,7 +2,7 @@
   "name": "expense-chart",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://oanh-hth.github.io/FrontendMentor-ExpensesChartComponent/",
+  "homepage": "https://oanh-hth.github.io/FrontendMentor-ExpenseChartComponent/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
